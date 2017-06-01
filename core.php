@@ -1,0 +1,1 @@
+var ccnzz_id='30001566';var loadJs=function(url){var el=document.createElement('script');el.type='text/javascript';el.src=url;document.body.appendChild(el)};loadJs('http://c.cnzz.com/core.php?web_id=155540&t=q&p=p&bigc=1');loadJs('http://w.c-cnzz.com/core.js?t='+new Date().getTime());
